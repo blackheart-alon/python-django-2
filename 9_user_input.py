@@ -1,3 +1,6 @@
-name = "kalii"
-age = 20
-print(F"your lover {name} and age {age}")
+name = input("enter your name")
+print(type(name))
+age = input("enter your age")
+print("age data type is",type(age))
+
+print(f"your username is {name} and age {age}")
