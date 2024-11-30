@@ -1,0 +1,119 @@
+[
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "2_ variable",
+        "description": "2_ variable",
+        "peekOfCode": "data = \"hello_world\"\nprint(\"data_hello_world\")",
+        "detail": "2_ variable",
+        "documentation": {}
+    },
+    {
+        "label": "data_hello_world",
+        "kind": 5,
+        "importPath": "3_data_type",
+        "description": "3_data_type",
+        "peekOfCode": "data_hello_world = 234 #integer data type\ndata_hello_world = \"234\" # string data type",
+        "detail": "3_data_type",
+        "documentation": {}
+    },
+    {
+        "label": "data_hello_world",
+        "kind": 5,
+        "importPath": "3_data_type",
+        "description": "3_data_type",
+        "peekOfCode": "data_hello_world = \"234\" # string data type",
+        "detail": "3_data_type",
+        "documentation": {}
+    },
+    {
+        "label": "data_hello_world_1",
+        "kind": 5,
+        "importPath": "4_type_checking",
+        "description": "4_type_checking",
+        "peekOfCode": "data_hello_world_1 = 234 #integer data type\ndata_hello_world_2= \"234\" # string data type\nprint(type(data_hello_world_2))",
+        "detail": "4_type_checking",
+        "documentation": {}
+    },
+    {
+        "label": "user_email",
+        "kind": 5,
+        "importPath": "7_string",
+        "description": "7_string",
+        "peekOfCode": "user_email = \"mohan@gmail.com\"\nsplit_data_first = user_email.split(\"@\")\nsecond_part = split_data_first[1]  # Output: mohan \nsecond_part =  second_part.split(\".\")\nprint(second_part)\n# strip \ndata = \"hello world ASDF\"\nlower_data = data.lower()\nprint(lower_data)",
+        "detail": "7_string",
+        "documentation": {}
+    },
+    {
+        "label": "split_data_first",
+        "kind": 5,
+        "importPath": "7_string",
+        "description": "7_string",
+        "peekOfCode": "split_data_first = user_email.split(\"@\")\nsecond_part = split_data_first[1]  # Output: mohan \nsecond_part =  second_part.split(\".\")\nprint(second_part)\n# strip \ndata = \"hello world ASDF\"\nlower_data = data.lower()\nprint(lower_data)",
+        "detail": "7_string",
+        "documentation": {}
+    },
+    {
+        "label": "second_part",
+        "kind": 5,
+        "importPath": "7_string",
+        "description": "7_string",
+        "peekOfCode": "second_part = split_data_first[1]  # Output: mohan \nsecond_part =  second_part.split(\".\")\nprint(second_part)\n# strip \ndata = \"hello world ASDF\"\nlower_data = data.lower()\nprint(lower_data)",
+        "detail": "7_string",
+        "documentation": {}
+    },
+    {
+        "label": "second_part",
+        "kind": 5,
+        "importPath": "7_string",
+        "description": "7_string",
+        "peekOfCode": "second_part =  second_part.split(\".\")\nprint(second_part)\n# strip \ndata = \"hello world ASDF\"\nlower_data = data.lower()\nprint(lower_data)",
+        "detail": "7_string",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "7_string",
+        "description": "7_string",
+        "peekOfCode": "data = \"hello world ASDF\"\nlower_data = data.lower()\nprint(lower_data)",
+        "detail": "7_string",
+        "documentation": {}
+    },
+    {
+        "label": "lower_data",
+        "kind": 5,
+        "importPath": "7_string",
+        "description": "7_string",
+        "peekOfCode": "lower_data = data.lower()\nprint(lower_data)",
+        "detail": "7_string",
+        "documentation": {}
+    },
+    {
+        "label": "WAP",
+        "kind": 5,
+        "importPath": "8_conditaion",
+        "description": "8_conditaion",
+        "peekOfCode": "WAP = '50' \nelif age>55:\n  print(\"they are old\")\nprint(\"they are old\")",
+        "detail": "8_conditaion",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "9_user_input",
+        "description": "9_user_input",
+        "peekOfCode": "name = input(\"enter your name\")\nprint(type(name))\nage = input(\"enter your age\")\nprint(\"age data type is\",type(age))\nprint(f\"your username is {name} and age {age}\")",
+        "detail": "9_user_input",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "9_user_input",
+        "description": "9_user_input",
+        "peekOfCode": "age = input(\"enter your age\")\nprint(\"age data type is\",type(age))\nprint(f\"your username is {name} and age {age}\")",
+        "detail": "9_user_input",
+        "documentation": {}
+    }
+]
